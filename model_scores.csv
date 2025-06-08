@@ -1,0 +1,4 @@
+model,f1_micro,f1_macro
+TF-IDF,0.67,0.48
+DistilBERT,0.80,0.65
+BERT,0.81,0.68
