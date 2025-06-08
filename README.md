@@ -50,4 +50,3 @@ Ce projet est réalisé dans le cadre d’un TP en groupe sur le **traitement au
 
 ```bash
 streamlit run app.py
-![alt text](image.png)
